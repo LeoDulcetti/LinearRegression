@@ -1,2 +1,2 @@
-# LinearRegression
-Predicting houses rent in Madrid 
+# Predicting house rents in Madrid
+
