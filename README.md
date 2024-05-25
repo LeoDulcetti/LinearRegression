@@ -1,4 +1,4 @@
-# Predicting house rents in Madrid
+# Linear Regression model for predicting house rents in Madrid
 
 ### About this project
 I completed this project in October 2023. It was my first project using Python and Machine Learning libraries.
